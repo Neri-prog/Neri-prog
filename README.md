@@ -19,5 +19,6 @@ Estou focado em aprimorar minhas habilidades e construir experiência prática p
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-neri-11a855101/)
 - 🖊️ [Codepen](https://codepen.io/Neri-prog)
+- 🌎 [Dio.me](https://www.dio.me/users/daniel_neri_sp)
  
 Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado! 🚀
